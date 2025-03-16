@@ -1,0 +1,119 @@
+Mono path[0] = 'C:/Users/Sansob/Documents/Dicoding/GamePilahSampah/PilahSampah/DevBuild_Data/Managed'
+Mono path[1] = 'C:/Users/Sansob/Documents/Dicoding/GamePilahSampah/PilahSampah/DevBuild_Data/Mono'
+Mono config path = 'C:/Users/Sansob/Documents/Dicoding/GamePilahSampah/PilahSampah/DevBuild_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Sansob/Documents/Dicoding/GamePilahSampah/PilahSampah/DevBuild_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55159
+Multi-casting "[IP] 192.168.43.60 [Port] 55159 [Flags] 2 [Guid] 2478159640 [EditorId] 1406151147 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-BVQJQFM) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55159]
+PlayerConnection already initialized - listening to [0.0.0.0:55159]
+Player data archive not found at `C:/Users/Sansob/Documents/Dicoding/GamePilahSampah/PilahSampah/DevBuild_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.2p4 (35c1064e76f5)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     912 MB
+    Driver:   10.18.10.4358
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Sansob\Documents\Dicoding\GamePilahSampah\PilahSampah\DevBuild_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Sansob\Documents\Dicoding\GamePilahSampah\PilahSampah\DevBuild_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Sansob\Documents\Dicoding\GamePilahSampah\PilahSampah\DevBuild_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Sansob\Documents\Dicoding\GamePilahSampah\PilahSampah\DevBuild_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Sansob\Documents\Dicoding\GamePilahSampah\PilahSampah\DevBuild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Sansob\Documents\Dicoding\GamePilahSampah\PilahSampah\DevBuild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Sansob\Documents\Dicoding\GamePilahSampah\PilahSampah\DevBuild_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Sansob\Documents\Dicoding\GamePilahSampah\PilahSampah\DevBuild_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Sansob\Documents\Dicoding\GamePilahSampah\PilahSampah\DevBuild_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Sansob\Documents\Dicoding\GamePilahSampah\PilahSampah\DevBuild_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.064 seconds
+Platform assembly: C:\Users\Sansob\Documents\Dicoding\GamePilahSampah\PilahSampah\DevBuild_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Sansob\Documents\Dicoding\GamePilahSampah\PilahSampah\DevBuild_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.613932 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.182043 ms
+System memory in use before: 17.8 MB.
+System memory in use after: 16.9 MB.
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 242.
+Total: 0.716714 ms (FindLiveObjects: 0.039342 ms CreateObjectMapping: 0.054737 ms MarkObjects: 0.334837 ms  DeleteObjects: 0.283948 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.476383 ms
+System memory in use before: 17.8 MB.
+System memory in use after: 17.8 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 303.
+Total: 0.348093 ms (FindLiveObjects: 0.029934 ms CreateObjectMapping: 0.026513 ms MarkObjects: 0.260428 ms  DeleteObjects: 0.029506 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.000662 ms
+System memory in use before: 17.8 MB.
+System memory in use after: 16.9 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 242.
+Total: 0.764609 ms (FindLiveObjects: 0.057302 ms CreateObjectMapping: 0.041908 ms MarkObjects: 0.276251 ms  DeleteObjects: 0.385725 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.440890 ms
+System memory in use before: 17.8 MB.
+System memory in use after: 17.8 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 303.
+Total: 0.287369 ms (FindLiveObjects: 0.026085 ms CreateObjectMapping: 0.024802 ms MarkObjects: 0.209540 ms  DeleteObjects: 0.024802 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.139643 ms
+System memory in use before: 17.8 MB.
+System memory in use after: 16.9 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 242.
+Total: 0.822339 ms (FindLiveObjects: 0.052171 ms CreateObjectMapping: 0.054737 ms MarkObjects: 0.315593 ms  DeleteObjects: 0.395988 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.340396 ms
+System memory in use before: 17.8 MB.
+System memory in use after: 17.8 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 303.
+Total: 0.250593 ms (FindLiveObjects: 0.023519 ms CreateObjectMapping: 0.019243 ms MarkObjects: 0.183882 ms  DeleteObjects: 0.022236 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.078064 ms
+System memory in use before: 17.8 MB.
+System memory in use after: 16.9 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 242.
+Total: 0.851418 ms (FindLiveObjects: 0.046184 ms CreateObjectMapping: 0.055164 ms MarkObjects: 0.331416 ms  DeleteObjects: 0.414377 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.320725 ms
+System memory in use before: 17.8 MB.
+System memory in use after: 17.8 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 303.
+Total: 0.268981 ms (FindLiveObjects: 0.024802 ms CreateObjectMapping: 0.021381 ms MarkObjects: 0.195856 ms  DeleteObjects: 0.024802 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.017340 ms
+System memory in use before: 17.8 MB.
+System memory in use after: 16.9 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 242.
+Total: 0.738523 ms (FindLiveObjects: 0.036348 ms CreateObjectMapping: 0.035493 ms MarkObjects: 0.295494 ms  DeleteObjects: 0.368192 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.324573 ms
+System memory in use before: 17.8 MB.
+System memory in use after: 17.8 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 303.
+Total: 0.240330 ms (FindLiveObjects: 0.023092 ms CreateObjectMapping: 0.019243 ms MarkObjects: 0.175757 ms  DeleteObjects: 0.020526 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1088 -> priority: 1 
+  Thread -> id: 21b8 -> priority: 1 
